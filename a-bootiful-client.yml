@@ -1,0 +1,23 @@
+catalogs:
+ - type: Descriptive
+   region: regionD
+   files:
+    - D000011
+    - D000012
+   columns:
+    - columna_1
+    - columna_2
+    - columna_3
+    - columna_4
+    - columna_5
+    - columna_6
+    - columna_7
+ - type: Legend
+   region: regionL
+   files:
+    - L000036
+    - L000037
+   columns:
+    - columna_1.1
+    - columna_1.2     
+    - columna_1.3
