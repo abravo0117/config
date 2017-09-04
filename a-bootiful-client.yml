@@ -1,3 +1,4 @@
+message: Mensaje desde GitHub, para probar su lectura desde un cliente java, de un servidor de configuración
 catalogs:
  - type: Descriptive
    region: regionD
